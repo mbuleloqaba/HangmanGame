@@ -1,0 +1,5 @@
+/* src/components/Hangman.css */
+.hangman-figure {
+    font-size: 24px;
+    margin-top: 20px;
+  }
